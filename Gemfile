@@ -17,6 +17,7 @@ group :test do
   gem 'launchy'
   gem 'poltergeist'
   gem 'listen'
+  gem 'byebug'
 end
 
 # Database Configuration
